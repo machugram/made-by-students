@@ -1,12 +1,12 @@
-# Made in Nigeria Github collection Guidelines
+# Made by Students Github collection Guidelines
 
 ## Contributing a Project
 
 To add a new project to the collection, please ensure they meet the following requirements arranged in order of importance
 
-* The project must be **made by Students** as the name implies :grin:.
+* The project must be **made by Students** as the name implies :grin:.  
 
-* The project must be open source.
+* If the project is open source add the github url
 
 * Ensure to provide a social media url of the creator of the project outside GitHub.
 
