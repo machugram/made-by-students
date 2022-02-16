@@ -33,7 +33,7 @@ A curation of awesome tools and projects built by student developers 🔥.
 
 ## <a name="M"> </a>M
 
-[MobileView](https://github.com/champ3oy/MobileView) - MobileView can view projects running on local server and remote urls. You can view your project on a iPhone X screen. You can change frame from white to dark. You can hard reload
+[MobileView](https://github.com/champ3oy/MobileView) - MobileView can view react-native projects running on local server and remote urls. You can view your project on a iPhone X screen. You can change frame from white to dark. You can hard reload. By [@cirlormx](https://twitter.com/cirlormx)
 
 ## <a name="N"> </a>N
 
