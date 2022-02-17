@@ -12,4 +12,6 @@ To add a new project to the collection, please ensure they meet the following re
 
 * Try to add the project to it's appropriate alphabetical location.
 
+* Project or Tool should not be a replica of an existing project. Eg: TodoList
+
 More requirements may be added as time goes on.
