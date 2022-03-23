@@ -11,6 +11,9 @@ A curation of awesome tools and projects built by student developers and tech en
 
 ## <a name="B"> </a>B
 
+[BotsApp-MD](https://github.com/Paddy-Pyker/BotsApp-MD) - BotsApp-MD is a whatsapp bot which serves as your in-chat personal assistant. It can do lot of cool stuff like downloading of free electronic books, generating static and motion stickers on the fly and a whole tons of other lovely features.
+To integrate the bot in your whatsapp, simply head to my repo and follow the instructions in the README. You can pass by and say hello to me [@Paddy-Pyker](https://api.whatsapp.com/send?phone=233593435964&text=Hi%20Peter%21%0AI%20followed%20your%20whatsapp%20link%20from%20github...made-by-students%E2%98%BA%EF%B8%8F%20%0AJust%20passing%20by%20to%20say%20hello%0AHope%20you%20good%3F).
+
 ## <a name="C"> </a>C
 
 ## <a name="D"> </a>D
