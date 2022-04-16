@@ -50,7 +50,7 @@ To integrate the bot in your whatsapp, simply head to my repo and follow the ins
 
 ## <a name="S"> </a>S
 
-[SakaiBot](https://github.com/samuelships/sakaibot) - SakaiBot is a bot that abstracts the process of interacting with the sakai website through a bot. It does this by leveraging the endpoints provided here and neatly packaging resources from these endpoints and making it available through a bot. By[@samueships](https://twitter.com/samuelships).
+[SakaiBot](https://github.com/samuelships/sakaibot) - SakaiBot is a bot that abstracts the process of interacting with the sakai website through a bot. It does this by leveraging the endpoints provided here and neatly packaging resources from these endpoints and making it available through a bot. By[@samuelships](https://twitter.com/samuelships).
 
 ## <a name="T"> </a>T
 
