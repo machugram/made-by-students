@@ -31,6 +31,7 @@ To integrate the bot in your whatsapp, simply head to my repo and follow the ins
 ## <a name="J"> </a>J
 
 ## <a name="K"> </a>K
+[KNUST Lecturer Assessment Extension](https://github.com/paakofiaidoo/lecturer-assessment-chrome-extension) - This chrome extension is for students in KNUST to ease the lecturer assessment process. By[@paakofiaidoo](https://twitter.com/PaaKofiaidoo)
 
 ## <a name="L"> </a>L
 
